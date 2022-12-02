@@ -1,0 +1,10 @@
+body {
+    max-width: 600px;
+    margin: auto;
+}
+img {
+    float: left;
+}
+.right-image {
+    float: right;
+}
